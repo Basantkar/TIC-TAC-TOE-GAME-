@@ -1,2 +1,2 @@
 # TIC-TAC-TOE-GAME-
-i am  make tic-tac-toe game  using java .
+I have done a project on Tic Tac Toe in JAVA programming language.
